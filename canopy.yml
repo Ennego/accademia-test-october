@@ -1,5 +1,5 @@
 collection: https://ennego.github.io/AccademiaCollectionsAll/index.json
-metadata: ["Date", "Notary", "Key terms", "Document type", "Associated name"]
+metadata: ["Date", "Notary", "Key terms", "Document type"]
 featured:
   [
     "https://ennego.github.io/AccademiaMapsAll/iiif/schedelromemapjacobs/manifest.json",
